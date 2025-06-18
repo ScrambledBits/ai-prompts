@@ -31,11 +31,11 @@ ai-prompts/
 
 ### 📂 Category Details
 
-- **Development & Technical** (5 prompts): Full-stack development, DevOps, Python expertise, and technical art
-- **Content & Writing** (4 prompts): Technical writing, article review, storytelling, and lyric creation
-- **Marketing & Social** (5 prompts): Social media management, influencer content, and advertising
+- **Development & Technical** (7 prompts): Full-stack development, DevOps, Python expertise, technical art, and diagram creation
+- **Content & Writing** (11 prompts): Technical writing, article review, storytelling, lyric creation, newsletters, and content analysis
+- **Marketing & Social** (7 prompts): Social media management, influencer content, advertising, and creative content
 - **Design & Creative** (3 prompts): Graphic design, SVG creation, and AI image prompt engineering
-- **Utilities & General** (2 prompts): DIY expertise and prompt engineering assistance
+- **Utilities & General** (6 prompts): DIY expertise, meeting analysis, flashcards, idea organization, and prompt engineering
 
 ## 🎯 How to Use
 
